@@ -1,0 +1,40 @@
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Bot Application.dll.config
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Bot Application.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Bot Application.pdb
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Autofac.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Chronic.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Microsoft.Bot.Builder.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Microsoft.Bot.Connector.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Newtonsoft.Json.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\System.Net.Http.Formatting.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\System.Web.Http.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\System.Web.Http.WebHost.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Autofac.xml
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Microsoft.Bot.Builder.xml
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Microsoft.Bot.Connector.xml
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\Newtonsoft.Json.xml
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\System.Net.Http.Formatting.xml
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\System.Web.Http.xml
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\System.Web.Http.WebHost.xml
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\obj\Debug\pyeongchangchatbot.csprojResolveAssemblyReference.cache
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\obj\Debug\Bot Application.dll
+c:\users\kangb\onedrive\documents\visual studio 2017\Projects\pyeongchangchatbot\pyeongchangchatbot\obj\Debug\Bot Application.pdb
